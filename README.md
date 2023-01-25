@@ -1,3 +1,17 @@
+
+## AIM:
+To develop a website to display the cover page design of a book
+
+## Design Steps:
+
+### Step 1:
+Clone the github repository and cfreate a django admin interface.
+
+### Step 2:
+Write HTML and CSS code for designing book cover page and execute them.
+
+## Code:
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -75,7 +89,7 @@
             position: relative;
             top: 135px;
             left: 260px;
-            width: 90px;
+            width: 80px;
             height: 100px;
             background-size: cover;
         }
@@ -113,3 +127,17 @@
         </div>
     </body>
 </html>
+```
+
+
+## Output:
+
+![out](https://user-images.githubusercontent.com/119393194/214643179-843e0f74-8154-4fb8-b1ca-67a0c4d35753.png)
+
+## HTML VALIDATOR
+
+![validat](https://user-images.githubusercontent.com/119393194/214643700-5784abb9-a175-422a-b7a4-2b2cdb627b34.png)
+
+## Result:
+The program for designing book cover page using HTML and CSS is executed is successfully
+++
